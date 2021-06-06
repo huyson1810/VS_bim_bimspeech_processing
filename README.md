@@ -7,5 +7,5 @@ Nhóm gồm 02 thành viên:
 
 Chủ đề: **Ứng dụng hỗ trợ các thao tác trên máy tính thông qua nhận dạng tiếng nói**.
 
-Báo cáo cụ thể được đặt tên là **Report_final**.
+Báo cáo cụ thể được đặt tên là **Report_final.docx**.
 
